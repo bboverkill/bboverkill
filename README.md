@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bboverkill
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IDK
 - 📫 How to reach me binura575@outlook.com
 
 <!---
